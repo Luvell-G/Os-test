@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/bot_test.dir/link.d CMakeFiles/bot_test.dir/tests/bot_test.cpp.o -o bot_test  libgroupchat_shared.a
