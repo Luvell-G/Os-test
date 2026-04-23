@@ -1,0 +1,6 @@
+2026-04-21 19:29:53 JOIN sender=1001 group=7 fd=5
+2026-04-21 19:29:53 JOIN sender=1000 group=7 fd=4
+2026-04-21 19:29:53 TEXT sender=1000 group=7 payload="hello from bot A"
+2026-04-21 19:30:20 JOIN sender=1000 group=7 fd=4
+2026-04-21 19:30:20 JOIN sender=1001 group=7 fd=5
+2026-04-21 19:30:20 TEXT sender=1000 group=7 payload="hello from bot A"
