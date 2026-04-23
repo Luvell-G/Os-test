@@ -1,0 +1,6 @@
+/mnt/data/GroupChat/build/CMakeFiles/groupchat_shared.dir
+/mnt/data/GroupChat/build/CMakeFiles/chat_server.dir
+/mnt/data/GroupChat/build/CMakeFiles/chat_client.dir
+/mnt/data/GroupChat/build/CMakeFiles/bot_test.dir
+/mnt/data/GroupChat/build/CMakeFiles/edit_cache.dir
+/mnt/data/GroupChat/build/CMakeFiles/rebuild_cache.dir
